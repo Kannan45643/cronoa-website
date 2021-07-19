@@ -1,0 +1,103 @@
+.a {
+     
+    background-image: url(Coronavirus-1.jpg);
+    height: 700px;
+}
+*{
+    margin: 0%;
+}
+
+
+
+.E {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    font-size: 50px;
+
+}
+a{
+    text-decoration: none;
+    color:aliceblue;
+    margin-left: 50px;
+}
+
+.b{
+    background-color: aliceblue;
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    margin:0%;
+    padding: 20px;
+
+}
+ .B{
+    background-color: rgb(20, 108, 185);
+    text-align: center;
+    color: rgb(209, 14, 14);
+    font-size: 40px;
+    margin:0%;
+    padding: 20px;
+
+ }
+
+ .C{
+
+    background-color: blanchedalmond;
+    
+    color: cadetblue;
+    font-size: 30px;
+    width: 100%;
+
+ }
+
+ .A{
+
+    font-size: 20px;
+    color:darkred;
+    width: 100%;
+ }
+
+ .A ul{
+
+    list-style: none;
+    margin-left: auto;
+
+ }
+
+ .A ul li{
+
+
+    background-color: floralwhite;
+    width: 5px;
+    position: relative;
+    padding-top: 20px;
+    margin:0 auto;
+    
+
+ }
+.A ul li div {
+
+    position: relative;
+    background-color: forestgreen;
+    color: goldenrod;
+    width: 400px;
+    margin: auto 20px;
+    opacity: 1;
+    
+} 
+
+.A ul li:nth-child(even) div{
+
+    left: -450px;
+}
+.vs div{
+    opacity: 1;
+}
+
+form{
+
+    font-size: 40px;
+    font-family: fantasy;
+    
+}
